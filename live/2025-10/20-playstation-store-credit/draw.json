@@ -1,0 +1,107 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "3",
+    "name": "£20 Playstation Store Credit",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-09T22:57:54.966Z",
+    "workerVersion": "VaultPlay Draw v1.2",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "896c872c0592448f449ae6453dc516f5d5741350ca6408d18ab25bd4b689a007",
+    "source": "drand",
+    "round": 5487321,
+    "timestamp": "1760050674",
+    "verificationUrl": "5487321"
+  },
+  "entries": {
+    "total": 6,
+    "list": [
+      {
+        "entryCode": "VP-ZTCAL-LOAED-FD3N",
+        "rank": 1
+      },
+      {
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "rank": 2
+      },
+      {
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "rank": 3
+      },
+      {
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "rank": 4
+      },
+      {
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "rank": 5
+      },
+      {
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "rank": 6
+      }
+    ]
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-ZTCAL-LOAED-FD3N",
+      "score": "65861340315566760618315626565758786612116744932310873321687779137268673009357",
+      "scoreHex": "919c3295e90155ed72c27bc4843c7af6af20c2e0cec2da1d65a3c1ae1781d6cd"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-ZTCAL-LOAED-FD3N",
+        "score": "65861340315566760618315626565758786612116744932310873321687779137268673009357",
+        "scoreHex": "919c3295e90155ed72c27bc4843c7af6af20c2e0cec2da1d65a3c1ae1781d6cd"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "score": "36307633931095596400175612703178598856624715334188721000272671940072422689723",
+        "scoreHex": "5045647ef0f723f60df4a0096f8ce78217cc58f5a3aac4069354225bba5acbbb"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "score": "29468788583351214141127747142295022376829337790769098771253241326653854283943",
+        "scoreHex": "4126be46aaaf33a2f0d183a29577b2c9af57a617eddbc5bfe6ce1592198578a7"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "score": "15958860560997511151662240398729537095311062254119294113739357119716374097591",
+        "scoreHex": "2348651d82160a44b18f47ce2739f060149901e3beeb0a49fc1d256f25102eb7"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "score": "13381544879646313113913991030116202515190971013691232197195262148716962509337",
+        "scoreHex": "1d95af9dbb9b51ed38e81054ff576318aa3e1e37c1d7a2d63e1af3eeb32bf219"
+      },
+      {
+        "rank": 6,
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "score": "9317297774385829210839549378163901039597655113818698255949868304464265527572",
+        "scoreHex": "149967562018fed17a9c9cf0b180f0822c0de6f669405bb27d571db61e82c114"
+      }
+    ],
+    "seed": "78dfc030de25856877658e4544b52d932e252eb32a9a0204d09491a625b90afd",
+    "checksum": "952eb0e7955c88e5"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.2",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "6705e5fe4f0045cd8e9001d37dd1f4deb163be87ea0eef0757ed0b0499e63bfe",
+  "publication": {
+    "publishedAt": "2025-10-09T22:57:54.966Z",
+    "filePath": "live/2025-10/20-playstation-store-credit/draw.json"
+  }
+}
