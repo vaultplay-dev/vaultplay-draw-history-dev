@@ -6,34 +6,34 @@
     "mode": "live"
   },
   "draw": {
-    "timestamp": "2025-10-09T22:57:52.987Z",
+    "timestamp": "2025-10-09T22:59:57.007Z",
     "workerVersion": "VaultPlay Draw v1.2",
     "endpoint": "/startdraw"
   },
   "randomness": {
-    "value": "896c872c0592448f449ae6453dc516f5d5741350ca6408d18ab25bd4b689a007",
+    "value": "38ac83ba9f95813be8e8efb2d6ed2dfbef3658ef2706e1baf47bc3b45b61bd40",
     "source": "drand",
-    "round": 5487321,
-    "timestamp": "1760050672",
-    "verificationUrl": "5487321"
+    "round": 5487325,
+    "timestamp": "1760050796",
+    "verificationUrl": "5487325"
   },
   "entries": {
     "total": 6,
     "list": [
       {
-        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
         "rank": 1
       },
       {
-        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
         "rank": 2
       },
       {
-        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
         "rank": 3
       },
       {
-        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
         "rank": 4
       },
       {
@@ -41,7 +41,7 @@
         "rank": 5
       },
       {
-        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
         "rank": 6
       }
     ]
@@ -49,59 +49,59 @@
   "results": {
     "winner": {
       "rank": 1,
-      "entryCode": "VP-KECHB-KS2M9-BBZ8",
-      "score": "87056339582423141204341947247678271472071218587588850635056918232263746627066",
-      "scoreHex": "c078245e5ac4ed53ef165d88738be3442be0df1ce90cabaf41d3f57704aba5fa"
+      "entryCode": "VP-UMA2U-GR8WY-RBVD",
+      "score": "114549307718640481472809555488137797155967510610178442522528528327683159413477",
+      "scoreHex": "fd409c4f783c8c0716e39ce97bb63fa4f02348809c7317da3fe712e58238d2e5"
     },
     "fullRanking": [
       {
         "rank": 1,
-        "entryCode": "VP-KECHB-KS2M9-BBZ8",
-        "score": "87056339582423141204341947247678271472071218587588850635056918232263746627066",
-        "scoreHex": "c078245e5ac4ed53ef165d88738be3442be0df1ce90cabaf41d3f57704aba5fa"
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "score": "114549307718640481472809555488137797155967510610178442522528528327683159413477",
+        "scoreHex": "fd409c4f783c8c0716e39ce97bb63fa4f02348809c7317da3fe712e58238d2e5"
       },
       {
         "rank": 2,
-        "entryCode": "VP-ZUII3-7LT11-LZWT",
-        "score": "57931083029933401309428683889950475287378301246907884062938708087120264281924",
-        "scoreHex": "8013d4bee7f7eba3487c3994aebb1d316d0fd68bdafdf4a45f4d6f00a489bf44"
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "score": "83788595493636543840112271674801841083212559283875046853451311168479913843209",
+        "scoreHex": "b93eaa199fe3d646c94f716aca5257ca6cd49e6ecf5fde3d3ad4b94eccdc1a09"
       },
       {
         "rank": 3,
-        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
-        "score": "36782789370113833769070143889035141624613268105429381842336353915926447220844",
-        "scoreHex": "5152522db5ede6e16cc9ef5e818b80e6bbdc738d3df803f04563a9d886bd686c"
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "score": "42653702575333693565162238823235143511977017859644817706747084288487767088680",
+        "scoreHex": "5e4d23df6b91fe116c3e7790e5ee23e4d338230bab2f07106149b7ad730f1e28"
       },
       {
         "rank": 4,
-        "entryCode": "VP-UMA2U-GR8WY-RBVD",
-        "score": "27616269381094529307809375631851972506142712792290948491709195388462846707272",
-        "scoreHex": "3d0e412a7955cb38eb53bdd8e6af9b12f63257bdd9671d08535b9c332a040648"
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "score": "27124485670535733978852737349959552976706963634918800228978856280520348380630",
+        "scoreHex": "3bf7ea32d57684b8d8854739bf2d48009111f30b1af6f6856bca3d0805fbadd6"
       },
       {
         "rank": 5,
         "entryCode": "VP-PVDJ7-PCLSI-MESR",
-        "score": "23145433290797978953203684871576650393528846657350351170170591402416475659213",
-        "scoreHex": "332bd9db39bc8272c4b129513261c0ec10dbc1db00055cacdc7d4fdf76fedbcd"
+        "score": "23152918981966824451601843840944610915290364424583475599123308746306399897943",
+        "scoreHex": "33301676f15a9e0652b4125b9cd3b05a036e2bd253628af1f185aedea71a0957"
       },
       {
         "rank": 6,
-        "entryCode": "VP-8PKHF-HWKY6-IZHH",
-        "score": "1117991031524312382991728400295630356287930633094371135280055262295209185033",
-        "scoreHex": "0278c2b01afdb153801d9cbeb4eb402d048752d00052d24dd996f6d5022a8f09"
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "score": "18112137091601679973282184268662288218628797477335254749605044933211897034893",
+        "scoreHex": "280b1b3705cae7f3e8a9eecde275b6b193218ce041c21f0a5463d0582d31788d"
       }
     ],
-    "seed": "78dfc030de25856877658e4544b52d932e252eb32a9a0204d09491a625b90afd",
-    "checksum": "1822db9a8fb73123"
+    "seed": "f8b4a8dce969ecab3ac4a38c443cd20e7ad71548508336dbad7f5baf783075ba",
+    "checksum": "4ac1c48da3d7cd6c"
   },
   "verification": {
     "algorithm": "VaultPlay Draw v1.2",
     "hashFunction": "SHA-256",
     "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
   },
-  "bundleHash": "7a3304359f10d913c1c96fb651959f9a4de8a8a91b84ac8b61d2e30f819a5650",
+  "bundleHash": "be5701c5e6636ba7c7ae269a1556a8a9b467fda6cc4e014f75222789fe35d99c",
   "publication": {
-    "publishedAt": "2025-10-09T22:57:52.987Z",
+    "publishedAt": "2025-10-09T22:59:57.007Z",
     "filePath": "live/2025-10/ps5-pulse-3d-wireless-headset/draw.json"
   }
 }
