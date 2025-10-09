@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "6",
+    "name": "PS5 3D Wireless Headset",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-09T23:01:55.059Z",
+    "workerVersion": "VaultPlay Draw v1.2",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "a03fae9dacb963d68f2b463e772876817b89bf49ba437f0e661c874839bf2344",
+    "source": "drand",
+    "round": 5487329,
+    "timestamp": "1760050914",
+    "verificationUrl": "5487329"
+  },
+  "entries": {
+    "total": 5,
+    "list": [
+      {
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "rank": 1
+      },
+      {
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "rank": 2
+      },
+      {
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "rank": 3
+      },
+      {
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "rank": 4
+      },
+      {
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "rank": 5
+      }
+    ]
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+      "score": "106556758859124264870149730581789835817433063703597213510281180392020816579245",
+      "scoreHex": "eb94fcfd9367b209376ebb59a49a6a4991a912fbbc64838884fbcf064d9a4aad"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "score": "106556758859124264870149730581789835817433063703597213510281180392020816579245",
+        "scoreHex": "eb94fcfd9367b209376ebb59a49a6a4991a912fbbc64838884fbcf064d9a4aad"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "score": "102516109535991008239540954131564863537734576130285090546444706317587618887766",
+        "scoreHex": "e2a60fd05abc1851887a5feaef4705d39c36a1c3d678f44567f6ece311527856"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "score": "77776932076265703752485172763651015525233670990207294343882572080000588511706",
+        "scoreHex": "abf42efc638a105cdce34da55b424ea064f2851da6467cd7b4037f14bf16f9da"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "score": "41880688346541485024421252363057337837838587132666972008897964939682248969814",
+        "scoreHex": "5c97a12c19a339e35642078cb973d7c4da77f062e2410ee56e8c257da484ce56"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "score": "25169420025565259921625035413559021633450936059318628981916216054136122946419",
+        "scoreHex": "37a5630bae3cfe09c379b387b719b3ca4a2a244ce85acf1855ea7aec84ccb373"
+      }
+    ],
+    "seed": "96d6133ec498dd4302b25a734b1b0c8bf6bde26deeed1b7d8f7042ee7ddb167b",
+    "checksum": "59766688945aa039"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.2",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "5947126c2ed47707b764b1fcef54aaf21f2b8415e7873663bd0170a675d8f15a",
+  "publication": {
+    "publishedAt": "2025-10-09T23:01:55.059Z",
+    "filePath": "live/2025-10/ps5-3d-wireless-headset/draw.json"
+  }
+}
