@@ -6,42 +6,42 @@
     "mode": "live"
   },
   "draw": {
-    "timestamp": "2025-10-09T22:57:54.966Z",
+    "timestamp": "2025-10-09T22:59:59.063Z",
     "workerVersion": "VaultPlay Draw v1.2",
     "endpoint": "/startdraw"
   },
   "randomness": {
-    "value": "896c872c0592448f449ae6453dc516f5d5741350ca6408d18ab25bd4b689a007",
+    "value": "38ac83ba9f95813be8e8efb2d6ed2dfbef3658ef2706e1baf47bc3b45b61bd40",
     "source": "drand",
-    "round": 5487321,
-    "timestamp": "1760050674",
-    "verificationUrl": "5487321"
+    "round": 5487325,
+    "timestamp": "1760050799",
+    "verificationUrl": "5487325"
   },
   "entries": {
     "total": 6,
     "list": [
       {
-        "entryCode": "VP-ZTCAL-LOAED-FD3N",
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
         "rank": 1
       },
       {
-        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
         "rank": 2
       },
       {
-        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
         "rank": 3
       },
       {
-        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
         "rank": 4
       },
       {
-        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
         "rank": 5
       },
       {
-        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "entryCode": "VP-ZTCAL-LOAED-FD3N",
         "rank": 6
       }
     ]
@@ -49,59 +49,59 @@
   "results": {
     "winner": {
       "rank": 1,
-      "entryCode": "VP-ZTCAL-LOAED-FD3N",
-      "score": "65861340315566760618315626565758786612116744932310873321687779137268673009357",
-      "scoreHex": "919c3295e90155ed72c27bc4843c7af6af20c2e0cec2da1d65a3c1ae1781d6cd"
+      "entryCode": "VP-VSHCA-D4S8L-39L4",
+      "score": "113660217985842495268486227030542936976599716210451807492279683988267438862527",
+      "scoreHex": "fb4967546a64cd3135e2d7ecda9f43a5bbb52e6288efd6268b0826bb97b670bf"
     },
     "fullRanking": [
       {
         "rank": 1,
-        "entryCode": "VP-ZTCAL-LOAED-FD3N",
-        "score": "65861340315566760618315626565758786612116744932310873321687779137268673009357",
-        "scoreHex": "919c3295e90155ed72c27bc4843c7af6af20c2e0cec2da1d65a3c1ae1781d6cd"
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "score": "113660217985842495268486227030542936976599716210451807492279683988267438862527",
+        "scoreHex": "fb4967546a64cd3135e2d7ecda9f43a5bbb52e6288efd6268b0826bb97b670bf"
       },
       {
         "rank": 2,
-        "entryCode": "VP-OPH3E-G6XES-JBN4",
-        "score": "36307633931095596400175612703178598856624715334188721000272671940072422689723",
-        "scoreHex": "5045647ef0f723f60df4a0096f8ce78217cc58f5a3aac4069354225bba5acbbb"
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "score": "95060274565353404986787288513637849484014839837883710859420834373057358766822",
+        "scoreHex": "d22a356f09d722203165428f8e03906a9b9ab57d59b387784f308a3a9ef6a2e6"
       },
       {
         "rank": 3,
-        "entryCode": "VP-VSHCA-D4S8L-39L4",
-        "score": "29468788583351214141127747142295022376829337790769098771253241326653854283943",
-        "scoreHex": "4126be46aaaf33a2f0d183a29577b2c9af57a617eddbc5bfe6ce1592198578a7"
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "score": "65161429522143461065187336216889737553910805598272966613749734381910197555160",
+        "scoreHex": "90100fe7b610d743ea732e939a26a5ec91e0eafe4df1682f11f38d4b31804fd8"
       },
       {
         "rank": 4,
-        "entryCode": "VP-JBI5J-KKENB-7PAR",
-        "score": "15958860560997511151662240398729537095311062254119294113739357119716374097591",
-        "scoreHex": "2348651d82160a44b18f47ce2739f060149901e3beeb0a49fc1d256f25102eb7"
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "score": "31797481167400151551191733283835117017113409329478146421058368967510605172248",
+        "scoreHex": "464cbc8f3991cb781409cbf1f2ac124453eb91fc8b160bcc03a78fef47100e18"
       },
       {
         "rank": 5,
-        "entryCode": "VP-1DCMC-GBIKY-USYM",
-        "score": "13381544879646313113913991030116202515190971013691232197195262148716962509337",
-        "scoreHex": "1d95af9dbb9b51ed38e81054ff576318aa3e1e37c1d7a2d63e1af3eeb32bf219"
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "score": "26999564818971507902027326063402289408567547233819242646061265082733845173082",
+        "scoreHex": "3bb1364eec93ac71b9b36d3d24193d532a9e6de067bc2f972ec7a5f4df82535a"
       },
       {
         "rank": 6,
-        "entryCode": "VP-52MKK-INWRK-YA9Q",
-        "score": "9317297774385829210839549378163901039597655113818698255949868304464265527572",
-        "scoreHex": "149967562018fed17a9c9cf0b180f0822c0de6f669405bb27d571db61e82c114"
+        "entryCode": "VP-ZTCAL-LOAED-FD3N",
+        "score": "18499019421975186240703760870386540521498248937973139884417958476492804059267",
+        "scoreHex": "28e612ee377ddd10cd7599586cdc0d57abd4fa96a7b90561bc5f2f6b9c89f083"
       }
     ],
-    "seed": "78dfc030de25856877658e4544b52d932e252eb32a9a0204d09491a625b90afd",
-    "checksum": "952eb0e7955c88e5"
+    "seed": "f8b4a8dce969ecab3ac4a38c443cd20e7ad71548508336dbad7f5baf783075ba",
+    "checksum": "f3a99dbc72c19b7e"
   },
   "verification": {
     "algorithm": "VaultPlay Draw v1.2",
     "hashFunction": "SHA-256",
     "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
   },
-  "bundleHash": "6705e5fe4f0045cd8e9001d37dd1f4deb163be87ea0eef0757ed0b0499e63bfe",
+  "bundleHash": "b1f94e1e9c449cca24c686fe3310aa38b23a7bcfa59645073f1af6e1a76d8887",
   "publication": {
-    "publishedAt": "2025-10-09T22:57:54.966Z",
+    "publishedAt": "2025-10-09T22:59:59.063Z",
     "filePath": "live/2025-10/20-playstation-store-credit/draw.json"
   }
 }
