@@ -1,0 +1,107 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "6",
+    "name": "PS5 PULSE 3D Wireless Headset",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-09T22:36:31.195Z",
+    "workerVersion": "VaultPlay Draw v1.2",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "2aacef328e1febb2dcd15990007620df728287a126823c1ce14703d80d00096f",
+    "source": "drand",
+    "round": 5487278,
+    "timestamp": "1760049391",
+    "verificationUrl": "5487278"
+  },
+  "entries": {
+    "total": 6,
+    "list": [
+      {
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "rank": 1
+      },
+      {
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "rank": 2
+      },
+      {
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "rank": 3
+      },
+      {
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "rank": 4
+      },
+      {
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "rank": 5
+      },
+      {
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "rank": 6
+      }
+    ]
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+      "score": "109026276484921434831199797909268411878832405625984045484949110587761951306609",
+      "scoreHex": "f10aaf893e828e4ba68ed77a78c5160d1a1a5488c0b2a6a54c38afa984d0f371"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "score": "109026276484921434831199797909268411878832405625984045484949110587761951306609",
+        "scoreHex": "f10aaf893e828e4ba68ed77a78c5160d1a1a5488c0b2a6a54c38afa984d0f371"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "score": "87011103645083020570653049493085909892240407030376068663450577032443133242459",
+        "scoreHex": "c05e8a182f369353ea035d40dd5837d28d4afa07a1881798229bdb1ff6fd2c5b"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "score": "69499755937458900634001476266640462713537057208196803807941606502540951946236",
+        "scoreHex": "99a777c5f1e9ad5e2f51b4f68f20afd950a4ec22c5784dc8715cb297b4c403fc"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "score": "52286023974599544743561380157839271607099306802402060257592398591568212694919",
+        "scoreHex": "7398d741373b2248bf4c125082a51b44a7756cdb4bd67666f51df1d983a89787"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "score": "50891724867666502190339238540805374954232585860933764765846606331653769828590",
+        "scoreHex": "7083b20cfb7ef3549304fc9a2f2c64633128b9d6b3cc3e0a955620d9ab9e98ee"
+      },
+      {
+        "rank": 6,
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "score": "13522040436989232501170550042425207112164856579760250978639198543510504491595",
+        "scoreHex": "1de534239655ae45c4530c38cc40d7f20a46b87e334b670c531f57ff63f04a4b"
+      }
+    ],
+    "seed": "3ff9ab5a1587f5a6d306fddb0c8329322e3a82549f403f8aa8f9b8b649c1d6c0",
+    "checksum": "6d854fbdcb8872e9"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.2",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "2392bf2bfba5d6316869737bebba187e696b9add58c98e5547b25c0df3112a6a",
+  "publication": {
+    "publishedAt": "2025-10-09T22:36:31.195Z",
+    "filePath": "live/2025-10/ps5-pulse-3d-wireless-headset/draw.json"
+  }
+}
