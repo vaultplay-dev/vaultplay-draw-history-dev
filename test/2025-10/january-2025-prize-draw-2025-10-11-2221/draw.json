@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "COMP-2025-001",
+    "name": "January 2025 Prize Draw",
+    "mode": "test"
+  },
+  "draw": {
+    "timestamp": "2025-10-11T22:21:11.544Z",
+    "workerVersion": "VaultPlay Draw v1.3",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "840d3d76dd75e88c9cb6ec6aa1ce75c3cfd7832e33159e67a09a42616dad2127",
+    "source": "drand",
+    "round": 5493008,
+    "timestamp": "2025-10-11T22:21:12.273Z",
+    "verificationUrl": "https://api.drand.sh/public/5493008",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 1,
+    "qualified": 1,
+    "disqualified": 0,
+    "list": [
+      {
+        "entryCode": "VP-001",
+        "rank": 1,
+        "gamertag": "PlayerName",
+        "emailHash": "46b06dcd1ce7d8bdf29ce2677575bd21fd7b3879416d5b810dcc78b77e932b02",
+        "entryTimestamp": "2025-01-10T14:32:15Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "When was World of Warcraft released?",
+          "answerGiven": "2004",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": null,
+    "locationDistribution": {
+      "countries": {
+        "GB": 1
+      },
+      "regions": {
+        "Hampshire": 1
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-001",
+      "gamertag": "PlayerName",
+      "emailHash": "46b06dcd1ce7d8bdf29ce2677575bd21fd7b3879416d5b810dcc78b77e932b02",
+      "entryTimestamp": "2025-01-10T14:32:15Z",
+      "location": {
+        "country": "GB",
+        "region": "Hampshire"
+      },
+      "quiz": {
+        "question": "When was World of Warcraft released?",
+        "answerGiven": "2004",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "105633302437327769540891022608028515399015176137189755893081896118260953962495",
+      "scoreHex": "e98a54972dfac0baeac1468c1531ff562105a3ffcada679e9af2e75662aad7ff"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-001",
+        "gamertag": "PlayerName",
+        "emailHash": "46b06dcd1ce7d8bdf29ce2677575bd21fd7b3879416d5b810dcc78b77e932b02",
+        "entryTimestamp": "2025-01-10T14:32:15Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "When was World of Warcraft released?",
+          "answerGiven": "2004",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "105633302437327769540891022608028515399015176137189755893081896118260953962495",
+        "scoreHex": "e98a54972dfac0baeac1468c1531ff562105a3ffcada679e9af2e75662aad7ff"
+      }
+    ],
+    "seed": "abb095f0b28dd1693dc6fec54661418c8f974dc2e785bd98777ad55a3ab69061",
+    "checksum": "e00a0ccb765563d4"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.3",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "d5c45741cf44f87a426e8151fcefe117725a47285108259d9f734ea5ae651924",
+  "publication": {
+    "publishedAt": "2025-10-11T22:21:12.273Z",
+    "filePath": "test/2025-10/january-2025-prize-draw-2025-10-11-2221/draw.json"
+  }
+}
