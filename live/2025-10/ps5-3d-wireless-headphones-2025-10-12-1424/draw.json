@@ -1,0 +1,383 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "6",
+    "name": "PS5 3D Wireless Headphones",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-12T14:24:29.231Z",
+    "workerVersion": "VaultPlay Draw v1.3",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "6f6bd810ebbf1d0ef5ea085311005366b51145b19bf421a63599bb194cb0826d",
+    "source": "drand",
+    "round": 5494934,
+    "timestamp": "2025-10-12T14:24:29.913Z",
+    "verificationUrl": "https://api.drand.sh/public/5494934",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 8,
+    "qualified": 6,
+    "disqualified": 2,
+    "list": [
+      {
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "rank": 1,
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-05T15:09:01.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "rank": 2,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:36:12.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "rank": 3,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:48.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "rank": 4,
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-05T15:11:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "rank": 5,
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-05T16:01:00.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "rank": 6,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:47.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-6MGKT-HF4KM-KKZX",
+        "rank": null,
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-ZA8IZ-PTI2N-0IZ5",
+        "rank": null,
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": {
+      "Quiz answered incorrectly": 2
+    },
+    "locationDistribution": {
+      "countries": {
+        "GB": 8
+      },
+      "regions": {
+        "Hampshire": 3,
+        "Cheshire": 2,
+        "Derbyshire": 3
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+      "gamertag": "puddinnpie",
+      "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+      "entryTimestamp": "2025-10-05T15:09:01.000Z",
+      "location": {
+        "country": "GB",
+        "region": "Hampshire"
+      },
+      "quiz": {
+        "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+        "answerGiven": "Dr. Mario",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "79777280698727486333219147629809380898767955871782780796321388459095786295632",
+      "scoreHex": "b060573a8743308f740bffa66893f3292451c553b0f60c8fbbf7c25368009150"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-TRNWP-AOTFJ-ZDNZ",
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-05T15:09:01.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "79777280698727486333219147629809380898767955871782780796321388459095786295632",
+        "scoreHex": "b060573a8743308f740bffa66893f3292451c553b0f60c8fbbf7c25368009150"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:36:12.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "76700624866887884855744528783672068057308575551538592804817283580021236968209",
+        "scoreHex": "a99303e72da47e98130724b5a3c95cbc2807853649b5bbc4917a7538e3de2b11"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:48.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "42230140625618633366593059731585052442929865196705238012146537577346830973785",
+        "scoreHex": "5d5d699d87865ad73b0febce22146b8c1f6d976e00a523e9c779265529b03b59"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-05T15:11:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "40584922481595075763330809402871475152380121014576888778386856468657029643342",
+        "scoreHex": "59ba4088f0655bb92c17762c5f619da852cdc64d5795a4ae2b1eaf879e89fc4e"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-05T16:01:00.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "29962832332015724757515871869980819829684582760334376446010713679044187697731",
+        "scoreHex": "423e5cb3c77f5398760abc6d4bc6a757fe24a11709410cd8eb1afcf2c51ab243"
+      },
+      {
+        "rank": 6,
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:47.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "9808942344351770817484167693473057511890887131441275032593841937238070440996",
+        "scoreHex": "15afaa24c10b4f61a9535a75cd79c03e9a02110c41bae480aa805e2bfc00b424"
+      },
+      {
+        "entryCode": "VP-6MGKT-HF4KM-KKZX",
+        "status": "disqualified",
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "101381752669667599531254070167887169161737131943583412209636389067702082751648",
+        "scoreHex": "e02409ddb2b16a323afec31622a741877d42bb14e5b41c50273a0c9551484ca0",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-ZA8IZ-PTI2N-0IZ5",
+        "status": "disqualified",
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "18724125886556299777581643342666020368896410559321663797601591038354974228093",
+        "scoreHex": "29657acd0bee1ad114a384befcc0bf0ec964157b593883cbe4e8af5b4dc2be7d",
+        "rank": null
+      }
+    ],
+    "seed": "9392d57198e9f381ea486d2988fbaf6d3e2e45164895c8600dcc52166a04b2e8",
+    "checksum": "d5ebc609631882bf"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.3",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "acdb4d97ce616aad2ca7c98dfa85b65cf34ba260ad8bd414e2c6a5c5703bc262",
+  "publication": {
+    "publishedAt": "2025-10-12T14:24:29.913Z",
+    "filePath": "live/2025-10/ps5-3d-wireless-headphones-2025-10-12-1424/draw.json"
+  }
+}
