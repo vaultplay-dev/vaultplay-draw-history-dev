@@ -1,0 +1,574 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "3",
+    "name": "£20 PS Store Credit",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-24T21:51:43.013Z",
+    "workerVersion": "VaultPlay Draw v1.3",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "ad2ca2ae4f2cf555e62692b0df7af2ca5864c3a8e6df336d33997ded96ffa6a5",
+    "source": "drand",
+    "round": 5530389,
+    "timestamp": "2025-10-24T21:51:43.655Z",
+    "verificationUrl": "https://api.drand.sh/public/5530389",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 13,
+    "qualified": 11,
+    "disqualified": 2,
+    "list": [
+      {
+        "entryCode": "VP-ZTCAL-LOAED-FD3N",
+        "rank": 1,
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "rank": 2,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-NFBYE-UZ7G6-GVT5",
+        "rank": 3,
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:50.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "rank": 4,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-WRX22-KX2SP-ZOT7",
+        "rank": 5,
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:49.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "rank": 6,
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "rank": 7,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "rank": 8,
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-07T23:35:13.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-1CPY9-XZXFH-UGFV",
+        "rank": 9,
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:53.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-HAYHV-6DZYQ-JFTR",
+        "rank": 10,
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:44:54.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-7S3X7-NAA94-MZAG",
+        "rank": 11,
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-6TC5T-2FP08-E7IK",
+        "rank": null,
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-VS2NS-FMVN8-VSVY",
+        "rank": null,
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": {
+      "Quiz answered incorrectly": 2
+    },
+    "locationDistribution": {
+      "countries": {
+        "GB": 13
+      },
+      "regions": {
+        "Derbyshire": 3,
+        "Greater London": 5,
+        "Cheshire": 2,
+        "Hampshire": 3
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-ZTCAL-LOAED-FD3N",
+      "gamertag": "puddinnpie",
+      "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+      "entryTimestamp": "2025-10-07T23:35:23.000Z",
+      "location": {
+        "country": "GB",
+        "region": "Derbyshire"
+      },
+      "quiz": {
+        "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+        "answerGiven": "Dr. Mario",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "114632185933961964907002284339267645102573738746679110603859919853260534413032",
+      "scoreHex": "fd6f849b547825b446b814993225d0767077c1cb9b7a7c31b98a1879cd0f76e8"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-ZTCAL-LOAED-FD3N",
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "114632185933961964907002284339267645102573738746679110603859919853260534413032",
+        "scoreHex": "fd6f849b547825b446b814993225d0767077c1cb9b7a7c31b98a1879cd0f76e8"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "93221702128108235474838624461006844705316684630126793463412919231399522265534",
+        "scoreHex": "ce199d151c7dfd9e484f6a9c5bdefc084fbc480bc28fb166fa65bb98dc38e9be"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-NFBYE-UZ7G6-GVT5",
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:50.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "81110364968933924001125007555571601266876839028465534745538906714556482840825",
+        "scoreHex": "b352d6f645d07fc30bc595b0912a6e2603112c650c81f68b55aa0fecb19de8f9"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "80147446937571757903763249831692348454486709954361598701986613465066940987619",
+        "scoreHex": "b131d8ef6d66be6658c9d347b9495744ed6e785101843699591413fd7668f8e3"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-WRX22-KX2SP-ZOT7",
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:49.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "55701742358575249548728402777694439451442772307956347476374066722108740821835",
+        "scoreHex": "7b2611a59ab5a0571353a32d07ca34302572645c9e6366693aaa56865ec1634b"
+      },
+      {
+        "rank": 6,
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "53087762346032378922113537204805301409956244331497879833419701826619968108852",
+        "scoreHex": "755e9bd2338bee11002776228fb942dabada1d482794c12e662f404eff68b934"
+      },
+      {
+        "rank": 7,
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "17492812436385713378275878260194738599847277545532414282981592152760229834508",
+        "scoreHex": "26ac94bad191ef89c5fec8de588faa29b54d73a0adf574edfa826604bab82f0c"
+      },
+      {
+        "rank": 8,
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-07T23:35:13.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "17188038758280988872436931232707099640183132398486240615492857287285476897170",
+        "scoreHex": "260015cece00941ae541255cc8ef4f0c8ed9a8b72b2cf65edd5fb00cdfdf3192"
+      },
+      {
+        "rank": 9,
+        "entryCode": "VP-1CPY9-XZXFH-UGFV",
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:53.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "8616429384204630378577911013408874140681121757415050590973861572438131021216",
+        "scoreHex": "130cb9e8b0453c67aa564f2e64713ae2bbc365b461a6e7fa6433208a68e515a0"
+      },
+      {
+        "rank": 10,
+        "entryCode": "VP-HAYHV-6DZYQ-JFTR",
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:44:54.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "4499676896892750247064632419101224691695833972498097333692554878187189380119",
+        "scoreHex": "09f2ba143879afce672871d0a74ed52f0360515f8c1f8b6a56d6d832da792417"
+      },
+      {
+        "rank": 11,
+        "entryCode": "VP-7S3X7-NAA94-MZAG",
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "1190077982381779478565609151676734057443862013038992888550285288941118523111",
+        "scoreHex": "02a18f6db8717da1f83ebbb174d91c8e273c148495c3ee6794b456b9358f86e7"
+      },
+      {
+        "entryCode": "VP-6TC5T-2FP08-E7IK",
+        "status": "disqualified",
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "52014531621318324594345183719267020321676002951551032075002372459527493218478",
+        "scoreHex": "72ff2e7e26318389ea71c16cefebb2ef84359d616fb76db31d0de92a451970ae",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-VS2NS-FMVN8-VSVY",
+        "status": "disqualified",
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "60935119503894145552106029584957832070574777729626483312063668318570637735546",
+        "scoreHex": "86b80e3091323228dd0ad4bcfbbebc644b9fd83a6606ffaf5e258f20cf44b67a",
+        "rank": null
+      }
+    ],
+    "seed": "c6bc276b586fa5a1d38c1a8b72a4169b7a31e55fc433bd6edc15ce8bb8c49754",
+    "checksum": "dc4b3d0ef3c28de7"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.3",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "6e043e1b7da4ad99e439b0374092f3e16f86bd34f2c3e61ff29c63bb31dc2f2d",
+  "publication": {
+    "publishedAt": "2025-10-24T21:51:43.655Z",
+    "filePath": "live/2025-10/20-ps-store-credit-2025-10-24-2151/draw.json"
+  }
+}
