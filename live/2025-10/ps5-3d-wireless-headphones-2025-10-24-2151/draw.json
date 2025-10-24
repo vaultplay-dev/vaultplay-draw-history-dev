@@ -1,0 +1,421 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "6",
+    "name": "PS5 3D Wireless Headphones",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-24T21:51:39.710Z",
+    "workerVersion": "VaultPlay Draw v1.3",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "ad2ca2ae4f2cf555e62692b0df7af2ca5864c3a8e6df336d33997ded96ffa6a5",
+    "source": "drand",
+    "round": 5530389,
+    "timestamp": "2025-10-24T21:51:40.391Z",
+    "verificationUrl": "https://api.drand.sh/public/5530389",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 9,
+    "qualified": 5,
+    "disqualified": 4,
+    "list": [
+      {
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "rank": 1,
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-05T16:01:00.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "rank": 2,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:48.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "rank": 3,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:36:12.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "rank": 4,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:47.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "rank": 5,
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-05T15:11:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-6MGKT-HF4KM-KKZX",
+        "rank": null,
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-JWOK1-3GGEU-JFCR",
+        "rank": null,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "3a8f27b5ec19966ed8f337c16ddb4733a676cd29540120055a75b92857c4a2bc",
+        "entryTimestamp": "2025-10-14T21:52:15.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?",
+          "answerGiven": "Warcraft III",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-QXOZH-FSQCW-T0K7",
+        "rank": null,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "3a8f27b5ec19966ed8f337c16ddb4733a676cd29540120055a75b92857c4a2bc",
+        "entryTimestamp": "2025-10-14T21:52:16.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?",
+          "answerGiven": "Warcraft III",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-ZA8IZ-PTI2N-0IZ5",
+        "rank": null,
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": {
+      "Quiz answered incorrectly": 4
+    },
+    "locationDistribution": {
+      "countries": {
+        "GB": 9
+      },
+      "regions": {
+        "Cheshire": 2,
+        "Derbyshire": 3,
+        "Hampshire": 4
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-KECHB-KS2M9-BBZ8",
+      "gamertag": "nazgul",
+      "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+      "entryTimestamp": "2025-10-05T16:01:00.000Z",
+      "location": {
+        "country": "GB",
+        "region": "Cheshire"
+      },
+      "quiz": {
+        "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+        "answerGiven": "Link",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "107408805808283009682078888326699199650900017670174552457363588546990730336624",
+      "scoreHex": "ed773acf6bb5ba7a8d2bae7e4c4ce21b64eaad088eea27869b6de91dca875970"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-KECHB-KS2M9-BBZ8",
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-05T16:01:00.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "107408805808283009682078888326699199650900017670174552457363588546990730336624",
+        "scoreHex": "ed773acf6bb5ba7a8d2bae7e4c4ce21b64eaad088eea27869b6de91dca875970"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-UMA2U-GR8WY-RBVD",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:48.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "96724348083207747772840882629863689376410954942625754549608459090434033210153",
+        "scoreHex": "d5d80a7c508d152db83779c37c7855cdabf9099205fb6bee54a4c7c754f45329"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-PVDJ7-PCLSI-MESR",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:36:12.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "46406268232088642159326954366856963161296362863884765939234622826269791328810",
+        "scoreHex": "6699045b91b2d17b799cc04486a3f6bc0dc7c2399814f7ea88ef146cdaf99a2a"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-ZUII3-7LT11-LZWT",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-05T15:32:47.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "4480773257583610203905336245120158773651267058552271712475593582948770431807",
+        "scoreHex": "09e8071d44c624504898244839ab240cff71347bdc6cc3f1c5b8d5c8f8bcc33f"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-8PKHF-HWKY6-IZHH",
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-05T15:11:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "3844108989985914627640374784430990700832652549706790217398394968324161095271",
+        "scoreHex": "087fb047187edaee9c315cb8c78f3521884d494aeca7a1e080d5a1bafc3f4667"
+      },
+      {
+        "entryCode": "VP-6MGKT-HF4KM-KKZX",
+        "status": "disqualified",
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "87451065960220375730836217029860215569548198550541206787066463206206405904555",
+        "scoreHex": "c1578c9d702e6744ebc5f35e6d8db1060269a29990728ed7399c28e3123c88ab",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-JWOK1-3GGEU-JFCR",
+        "status": "disqualified",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "3a8f27b5ec19966ed8f337c16ddb4733a676cd29540120055a75b92857c4a2bc",
+        "entryTimestamp": "2025-10-14T21:52:15.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?",
+          "answerGiven": "Warcraft III",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "11816266203437567792518612129669918548464743602142317533225804970905274165418",
+        "scoreHex": "1a1fc508ccac6164d70bcacf0e52fa4174f2dbb365bce315da26fb8e2e6828aa",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-QXOZH-FSQCW-T0K7",
+        "status": "disqualified",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "3a8f27b5ec19966ed8f337c16ddb4733a676cd29540120055a75b92857c4a2bc",
+        "entryTimestamp": "2025-10-14T21:52:16.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?",
+          "answerGiven": "Warcraft III",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "103810656104310460399347246095892207624294789832625678770108237557741132310912",
+        "scoreHex": "e582bfc94a40c29f938e3b8b1ec7aa4255f270e4a58ff576b2e3bc00cf45e980",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-ZA8IZ-PTI2N-0IZ5",
+        "status": "disqualified",
+        "gamertag": "Spartan_VII",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-05T15:11:03.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+          "answerGiven": "Winston",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "53596173279923395760408199999562631868068677902235048838178167274576088818530",
+        "scoreHex": "767e5bebd4fe66efa6de414d3bfcfea15c26009195ca8f6ff503197f03026362",
+        "rank": null
+      }
+    ],
+    "seed": "c6bc276b586fa5a1d38c1a8b72a4169b7a31e55fc433bd6edc15ce8bb8c49754",
+    "checksum": "bd7081e23cdc1643"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.3",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "fa1b1508bd1fac9bd5e03860f6a25c701d470cc845a4316bd3ada480cb48cf7c",
+  "publication": {
+    "publishedAt": "2025-10-24T21:51:40.391Z",
+    "filePath": "live/2025-10/ps5-3d-wireless-headphones-2025-10-24-2151/draw.json"
+  }
+}
