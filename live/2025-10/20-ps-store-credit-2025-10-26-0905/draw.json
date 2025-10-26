@@ -1,0 +1,498 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "3",
+    "name": "£20 PS Store Credit",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-26T09:05:18.447Z",
+    "workerVersion": "VaultPlay Draw v1.3",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "aae66cd02de3440192f05cdc9de9c23003922bd5aa3979c63633711a825b40b2",
+    "source": "drand",
+    "round": 5534616,
+    "timestamp": "2025-10-26T09:05:19.409Z",
+    "verificationUrl": "https://api.drand.sh/public/5534616",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 11,
+    "qualified": 10,
+    "disqualified": 1,
+    "list": [
+      {
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "rank": 1,
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-07T23:35:13.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-1CPY9-XZXFH-UGFV",
+        "rank": 2,
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:53.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-7S3X7-NAA94-MZAG",
+        "rank": 3,
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "rank": 4,
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "rank": 5,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "rank": 6,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-NFBYE-UZ7G6-GVT5",
+        "rank": 7,
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:50.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "rank": 8,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-HAYHV-6DZYQ-JFTR",
+        "rank": 9,
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:44:54.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-WRX22-KX2SP-ZOT7",
+        "rank": 10,
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:49.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-MWOGV-EGALU-ZBQ2",
+        "rank": null,
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-25T22:30:52.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+          "answerGiven": "Nolan North",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": {
+      "Quiz answered incorrectly": 1
+    },
+    "locationDistribution": {
+      "countries": {
+        "GB": 11
+      },
+      "regions": {
+        "Hampshire": 2,
+        "Greater London": 6,
+        "Cheshire": 2,
+        "Derbyshire": 1
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-1DCMC-GBIKY-USYM",
+      "gamertag": "puddinnpie",
+      "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+      "entryTimestamp": "2025-10-07T23:35:13.000Z",
+      "location": {
+        "country": "GB",
+        "region": "Hampshire"
+      },
+      "quiz": {
+        "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+        "answerGiven": "Dr. Mario",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "114520540566045080021763517356781919942347764253718004798548538830831650529086",
+      "scoreHex": "fd30543679ea0d6cdb6505296e2ba7082eea66afb66502e7f8af49ba175edf3e"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-1DCMC-GBIKY-USYM",
+        "gamertag": "puddinnpie",
+        "emailHash": "7eb8a31995957c328edd800fb73192f3177298ae683e9ee2dbd4d9d4af6a37c4",
+        "entryTimestamp": "2025-10-07T23:35:13.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+          "answerGiven": "Dr. Mario",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "114520540566045080021763517356781919942347764253718004798548538830831650529086",
+        "scoreHex": "fd30543679ea0d6cdb6505296e2ba7082eea66afb66502e7f8af49ba175edf3e"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-1CPY9-XZXFH-UGFV",
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:53.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "113794877944068965172043596590973414853387984187221538527093395363062652076456",
+        "scoreHex": "fb959e53de5fd7b9f6c10bc9e273ed92732743efc80b6239e626546ad76401a8"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-7S3X7-NAA94-MZAG",
+        "gamertag": "gamer12345",
+        "emailHash": "8007f2440fe7527501abb3be97f7bb0d0b44b6a3200986527889cd17b7de7c51",
+        "entryTimestamp": "2025-10-24T21:44:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of the following is NOT a Nintendo game console?",
+          "answerGiven": "Dreamcast",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "109252835722151498540571734579833963790181232179504075423586537632804598869029",
+        "scoreHex": "f18ae9e6680e439e7a38e4e28c6f21a90985ebfe036ce18872987611a1fe6c25"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-JBI5J-KKENB-7PAR",
+        "gamertag": "nazgul",
+        "emailHash": "dfece00fd92bbab2c3a2874cc2af614d148f3a168807f8360fc364639395c467",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "What's the name of the main protagonist in the \"Legend of Zelda\" franchise?",
+          "answerGiven": "Link",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "105848316913779557517894592901378536309957578756840659194170236528124330501815",
+        "scoreHex": "ea0406395d724fdb61d65a86cd539c258fe260bfc3b98e721ad16f8afec3e6b7"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-52MKK-INWRK-YA9Q",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Derbyshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "97439900303396128477882777857864553353687353675291393323747812075773995286350",
+        "scoreHex": "d76d077746fa8c758c620595196a9604bc278b1486e5daa4444f4f671d5c7f4e"
+      },
+      {
+        "rank": 6,
+        "entryCode": "VP-VSHCA-D4S8L-39L4",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Hampshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "94580876645555673907694217950478192595572068702226616667374934018769642441642",
+        "scoreHex": "d11ae10de939850bc260fbdb9aa37cddd730a51583a1cbbac75715f4a10dcbaa"
+      },
+      {
+        "rank": 7,
+        "entryCode": "VP-NFBYE-UZ7G6-GVT5",
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:50.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "93007734941210215675227360243840405117917378729192368695676104798413043753851",
+        "scoreHex": "cda083310deeaeddb404b007505771aae17c0c8ed24a1fdc61b539190eef637b"
+      },
+      {
+        "rank": 8,
+        "entryCode": "VP-OPH3E-G6XES-JBN4",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "77cbbdebc2607f97e407921734cc7659e9d118044bed0ba14bd09233d8add3f5",
+        "entryTimestamp": "2025-10-07T23:35:23.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Cheshire"
+        },
+        "quiz": {
+          "question": "In what year was the game \"Fallout\" released?",
+          "answerGiven": "1997",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "7377755003204968468847492172139890934978401618963128358048391539394893981597",
+        "scoreHex": "104fa94e5c8d13873a07193635566d1db7bf5d0b3323367ddeb3e39bc2ba279d"
+      },
+      {
+        "rank": 9,
+        "entryCode": "VP-HAYHV-6DZYQ-JFTR",
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:44:54.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "5001607585835228860626658171770450180629236822399479911377079980664208118892",
+        "scoreHex": "0b0ecf40350129170651e814cfcdb92b16980a497a473683ebc96ef19baa546c"
+      },
+      {
+        "rank": 10,
+        "entryCode": "VP-WRX22-KX2SP-ZOT7",
+        "gamertag": "worichm",
+        "emailHash": "e1189606d320df39c70b2097403da76bb0aa9a6e5e268efc516a83c02ed20ec1",
+        "entryTimestamp": "2025-10-24T21:37:49.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Which of these video game engines was made by the company Epic Games?",
+          "answerGiven": "Unreal",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "212453291956074756109654160016907271549631905246046764494591253740013511538",
+        "scoreHex": "00783e8a92941eae5aeacae14ad1f0f1303b0e6f82a01adf8057b62260186372"
+      },
+      {
+        "entryCode": "VP-MWOGV-EGALU-ZBQ2",
+        "status": "disqualified",
+        "gamertag": "Spartan_IXXX",
+        "emailHash": "4f97ee12d973e39d086495ce4d227db5b89c184e4c42bc632503df518057c565",
+        "entryTimestamp": "2025-10-25T22:30:52.000Z",
+        "location": {
+          "country": "GB",
+          "region": "Greater London"
+        },
+        "quiz": {
+          "question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+          "answerGiven": "Nolan North",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "95317562024265343131255846555657561031488706526932176055949281511984446206837",
+        "scoreHex": "d2bbd4094a12b44f199051109e647e264a80ca0ebc2af9f7fb205d25b3027375",
+        "rank": null
+      }
+    ],
+    "seed": "893e963f96225026cb2b355d05fd4a215d66b78bf5c6e07169552e912798234d",
+    "checksum": "52289acb81582d34"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.3",
+    "hashFunction": "SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "774754c11b3d57d3b58fa95ef4705dca6ae1d9b09f823af744644a7a5d03022b",
+  "publication": {
+    "publishedAt": "2025-10-26T09:05:19.409Z",
+    "filePath": "live/2025-10/20-ps-store-credit-2025-10-26-0905/draw.json"
+  }
+}
