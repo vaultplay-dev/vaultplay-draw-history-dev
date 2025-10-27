@@ -1,0 +1,234 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "4",
+    "name": "£10 Epic Games Store Credit",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-27T23:12:26.788Z",
+    "workerVersion": "VaultPlay Draw v1.4",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "83e8b05a5fdc626b00df6bc1a58a4d0d617995bf145218faa3d72d6abb7f42b7",
+    "source": "drand",
+    "round": 5539190,
+    "timestamp": "2025-10-27T23:12:27.453Z",
+    "verificationUrl": "https://api.drand.sh/public/5539190",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 4,
+    "qualified": 4,
+    "disqualified": 0,
+    "list": [
+      {
+        "entryCode": "VP-MRPT8-ZY34S-8OOS",
+        "rank": 1,
+        "gamertag": "Spartan_IX",
+        "emailHash": "48d76361e0a62e23ae8d6a1f4f1d9e4a70859d7cb90c7916fcd99742e372df34",
+        "entryTimestamp": "2025-10-27T14:04:28.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VTXGI-SZXHC-SJUE",
+        "rank": 2,
+        "gamertag": "Spartan_IX",
+        "emailHash": "48d76361e0a62e23ae8d6a1f4f1d9e4a70859d7cb90c7916fcd99742e372df34",
+        "entryTimestamp": "2025-10-27T14:04:25.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-LFQZE-2VAIG-G8JL",
+        "rank": 3,
+        "gamertag": "Mystique24",
+        "emailHash": "f1ebb217571e860f55014ba693a8649b12be5b598cca4d7add7e50590874a0c9",
+        "entryTimestamp": "2025-10-27T14:04:27.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VMXZQ-1GYTP-NS4B",
+        "rank": 4,
+        "gamertag": "Mystique24",
+        "emailHash": "f1ebb217571e860f55014ba693a8649b12be5b598cca4d7add7e50590874a0c9",
+        "entryTimestamp": "2025-10-27T14:00:17.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": null,
+    "locationDistribution": {
+      "countries": {
+        "GB": 4
+      },
+      "regions": {
+        "England - East of England": 2,
+        "England - North East": 2
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-MRPT8-ZY34S-8OOS",
+      "gamertag": "Spartan_IX",
+      "displayNamePublicly": true,
+      "emailHash": "48d76361e0a62e23ae8d6a1f4f1d9e4a70859d7cb90c7916fcd99742e372df34",
+      "entryTimestamp": "2025-10-27T14:04:28.000Z",
+      "location": {
+        "country": "GB",
+        "region": "England - East of England"
+      },
+      "quiz": {
+        "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+        "answerGiven": "Halo",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "83113087585834621761316562978976895171470691350553389432398711340054529807642",
+      "scoreHex": "b7c0572cc28f749d5591c7c646bfaa01b0ae65f11ddf327520e7cf00f939951a"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-MRPT8-ZY34S-8OOS",
+        "gamertag": "Spartan_IX",
+        "displayNamePublicly": true,
+        "emailHash": "48d76361e0a62e23ae8d6a1f4f1d9e4a70859d7cb90c7916fcd99742e372df34",
+        "entryTimestamp": "2025-10-27T14:04:28.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "83113087585834621761316562978976895171470691350553389432398711340054529807642",
+        "scoreHex": "b7c0572cc28f749d5591c7c646bfaa01b0ae65f11ddf327520e7cf00f939951a"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-VTXGI-SZXHC-SJUE",
+        "gamertag": "Spartan_IX",
+        "displayNamePublicly": true,
+        "emailHash": "48d76361e0a62e23ae8d6a1f4f1d9e4a70859d7cb90c7916fcd99742e372df34",
+        "entryTimestamp": "2025-10-27T14:04:25.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "41265767290940606253811540510261179388852618377392278367137468224135044049296",
+        "scoreHex": "5b3b98ba7be2a4f88a8d18c1d31735f6102538128d20dfa9833a6ed9ce74a990"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-LFQZE-2VAIG-G8JL",
+        "gamertag": "Mystique24",
+        "displayNamePublicly": true,
+        "emailHash": "f1ebb217571e860f55014ba693a8649b12be5b598cca4d7add7e50590874a0c9",
+        "entryTimestamp": "2025-10-27T14:04:27.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "37918560058564011644641304942640734192438924804962430969505973487884647611195",
+        "scoreHex": "53d524f9f1c19744d1f243d0a86a984ce378fee9ebee3bafa9c8559ce3753b3b"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-VMXZQ-1GYTP-NS4B",
+        "gamertag": "Mystique24",
+        "displayNamePublicly": true,
+        "emailHash": "f1ebb217571e860f55014ba693a8649b12be5b598cca4d7add7e50590874a0c9",
+        "entryTimestamp": "2025-10-27T14:00:17.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "17768986152400799441883575367939200712028667059820911642462687230581556504969",
+        "scoreHex": "2748e3c74796ec05b7c2d8ddc1a59f2084e2b039a446d4b239ba1184d72de989"
+      }
+    ],
+    "seed": "5fb5fefb7a72380b9df54b7e7848578196f433c819313b5738aa14ac276ed5ff",
+    "checksum": "c04f9f503464430f"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.4",
+    "hashFunction": "SHA-256",
+    "emailHashFunction": "HMAC-SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "21529efca628d16dff1af56d3395907a01b5bae399834d77b35d939f8cdfa993",
+  "publication": {
+    "publishedAt": "2025-10-27T23:12:27.453Z",
+    "filePath": "live/2025-10/10-epic-games-store-credit-2025-10-27-2312/draw.json"
+  }
+}
