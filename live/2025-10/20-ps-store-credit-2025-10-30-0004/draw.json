@@ -1,0 +1,197 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "3",
+    "name": "£20 PS Store Credit",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-10-30T00:04:06.307Z",
+    "workerVersion": "VaultPlay Draw v1.4",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "cab96c5fcfba90efe6f485496ea6bdc3bd0d153875de74f8ce329f188ba8ef2a",
+    "source": "drand",
+    "round": 5545054,
+    "timestamp": "2025-10-30T00:04:07.168Z",
+    "verificationUrl": "https://api.drand.sh/public/5545054",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 3,
+    "qualified": 2,
+    "disqualified": 1,
+    "list": [
+      {
+        "entryCode": "VP-MDWEJ-YAKWH-I81Y",
+        "rank": 1,
+        "gamertag": "Mystique24",
+        "emailHash": "ebc2d27e2de871cf87f7bba7e5c78510e5c1afd03624981a82f3bb218128aa89",
+        "entryTimestamp": "2025-10-27T13:57:20.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "\"Tomb Raider\" icon Lara Croft was originally called...",
+          "answerGiven": "Laura Cruz",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-FJ7UX-BFKQG-KLPU",
+        "rank": 2,
+        "gamertag": "Firestorm Dudi",
+        "emailHash": "7d9627771da654cabfd999c235b1acd5a91499e2e36b5b0ffe97a7c774c6dadf",
+        "entryTimestamp": "2025-10-28T00:23:35.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+          "answerGiven": "Adam the Clown",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-LYIGT-45H07-3X0D",
+        "rank": null,
+        "gamertag": "Mys***24",
+        "emailHash": "ebc2d27e2de871cf87f7bba7e5c78510e5c1afd03624981a82f3bb218128aa89",
+        "entryTimestamp": "2025-10-27T13:52:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+          "answerGiven": "Navy Seals",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": {
+      "Quiz answered incorrectly": 1
+    },
+    "locationDistribution": {
+      "countries": {
+        "GB": 3
+      },
+      "regions": {
+        "England - North East": 2,
+        "England - South East": 1
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-MDWEJ-YAKWH-I81Y",
+      "gamertag": "Mystique24",
+      "displayNamePublicly": true,
+      "emailHash": "ebc2d27e2de871cf87f7bba7e5c78510e5c1afd03624981a82f3bb218128aa89",
+      "entryTimestamp": "2025-10-27T13:57:20.000Z",
+      "location": {
+        "country": "GB",
+        "region": "England - North East"
+      },
+      "quiz": {
+        "question": "\"Tomb Raider\" icon Lara Croft was originally called...",
+        "answerGiven": "Laura Cruz",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "26314339273461375295695855261140531365214276025277425894103311022082039713568",
+      "scoreHex": "3a2d6362d80f676afa9793437b19d65848ce1e6950e2aa469a496726ea438f20"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-MDWEJ-YAKWH-I81Y",
+        "gamertag": "Mystique24",
+        "displayNamePublicly": true,
+        "emailHash": "ebc2d27e2de871cf87f7bba7e5c78510e5c1afd03624981a82f3bb218128aa89",
+        "entryTimestamp": "2025-10-27T13:57:20.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "\"Tomb Raider\" icon Lara Croft was originally called...",
+          "answerGiven": "Laura Cruz",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "26314339273461375295695855261140531365214276025277425894103311022082039713568",
+        "scoreHex": "3a2d6362d80f676afa9793437b19d65848ce1e6950e2aa469a496726ea438f20"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-FJ7UX-BFKQG-KLPU",
+        "gamertag": "Firestorm Dudi",
+        "displayNamePublicly": true,
+        "emailHash": "7d9627771da654cabfd999c235b1acd5a91499e2e36b5b0ffe97a7c774c6dadf",
+        "entryTimestamp": "2025-10-28T00:23:35.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+          "answerGiven": "Adam the Clown",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "20635892791663230122357339887342108980222150574518254589529105249915204049618",
+        "scoreHex": "2d9f805cad7978b948ab86720597c3a5bb4b7fc58e25abef51bfe1b64a249ad2"
+      },
+      {
+        "entryCode": "VP-LYIGT-45H07-3X0D",
+        "status": "disqualified",
+        "gamertag": "Mys***24",
+        "displayNamePublicly": false,
+        "emailHash": "ebc2d27e2de871cf87f7bba7e5c78510e5c1afd03624981a82f3bb218128aa89",
+        "entryTimestamp": "2025-10-27T13:52:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+          "answerGiven": "Navy Seals",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "42214361271518445232123582543139645448895684832011700127262719703147803901423",
+        "scoreHex": "5d547b54c1aea1ae0851e76f714b77af5f8f4872e36cdcacf8a738941a4cfdef",
+        "rank": null
+      }
+    ],
+    "seed": "f214906a7ee4d6cdba994d85d1bfa39b2e64ec35fba300728ac3f0a72fefb990",
+    "checksum": "2b44c4b70d17bbea"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.4",
+    "hashFunction": "SHA-256",
+    "emailHashFunction": "HMAC-SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "817e7e1635356afdf7967e2ffa86fbc26dfed11183a23ccc79b1fe3f7a0fb1eb",
+  "publication": {
+    "publishedAt": "2025-10-30T00:04:07.168Z",
+    "filePath": "live/2025-10/20-ps-store-credit-2025-10-30-0004/draw.json"
+  }
+}
